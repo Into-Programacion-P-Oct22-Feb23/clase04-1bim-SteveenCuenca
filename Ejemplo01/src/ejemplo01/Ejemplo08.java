@@ -10,16 +10,16 @@ package ejemplo01;
  * @author reroes
  */
 public class Ejemplo08 {
+
     public static void main(String[] args) {
         // Ejemplo de uso de printf con decimales
-        
+
         boolean a = true;
         boolean b = false;
         boolean c = a || b;
         boolean d = a && b;
-        System.out.printf("El resultados de la variable 'c' es: %s\n", c);
+        System.out.printf("El resultados de la variable 'c' es: %s\n\n", c);
         System.out.printf("El resultados de la variable 'd' es: %s\n", d);
-        
-              
+
     }
 }

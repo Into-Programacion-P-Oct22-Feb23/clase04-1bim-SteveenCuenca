@@ -11,12 +11,12 @@ package ejemplo01;
  */
 public class Ejemplo04 {
     public static void main(String[] args) {
-        String nombreEstudiante = "René Rolando";
-        String apellidoEstudiante = "Elizalde Solano";
-        int nacimiento = 1983;
+        String nombreEstudiante = "Steveen Alexander";
+        String apellidoEstudiante = "Cuenca Guaman";
+        int nacimiento = 2003;
         System.out.print(nombreEstudiante + " ");
         System.out.print(apellidoEstudiante + " ");
-        System.out.print(nacimiento);
-        System.out.print(nombreEstudiante);
+        System.out.print(nacimiento + " ");
+        System.out.print(nombreEstudiante + " ");
     }
 }
